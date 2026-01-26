@@ -16,7 +16,7 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          npm ci
+          npm install   <-- 改成這樣，讓系統自動產生依賴關係
           npm run build
         env:
           # 這裡會自動讀取你在 Settings > Secrets 設定的 Key
