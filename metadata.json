@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bangkok 2026 Luxury Trip Guide",
+  "description": "A high-end, comprehensive travel companion for a luxury trip to Bangkok in 2026, featuring itineraries, expenses tracking, and an integrated AI travel assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
